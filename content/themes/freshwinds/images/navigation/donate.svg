@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="svg4830" inkscape:version="0.91 r13725" sodipodi:docname="donate.svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="86px" height="70px"
+	 viewBox="0 0 86 70" enable-background="new 0 0 86 70" xml:space="preserve">
+
+<line fill="none" x1="-7.385" y1="37.167" x2="-7.219" y2="37.167"/>
+<path fill="none" d="M-6.052,39.167"/>
+<path id="path4834_1_" inkscape:connector-curvature="0" fill="#D11E9F" d="M21,32c-8.388,0-14.519,4.135-20.438,7.094
+	C0.225,39.258-0.002,39.625,0,40v22c0.008,0.625,0.718,1.133,1.313,0.938C6.007,61.372,13.098,59,18,59
+	c2.836,0,6.215,1.402,9.625,3.25s6.852,4.082,9.938,5.625C40.527,69.325,43.889,70,46,70c4.332,0,7.229-1.501,10.055-3.561
+	l26.539-19.658C85.469,44.65,86,42.447,86,41c0-1.279-0.504-2.355-1.281-3.031S82.947,37,82,37c-2.027,0-3.943,0.645-6.219,1.969
+	c-0.34-0.889-0.947-1.611-1.656-2.094C73.203,36.246,72.109,36,71,36c-1.809,0-3.959,0.854-6.438,2.094c0,0-0.859,0.43-1,0.5
+	c-0.352-0.703-0.84-1.312-1.439-1.719C61.203,36.246,60.109,36,59,36c-1.223,0-2.676,0.372-4.271,1.02
+	c-0.033,0.016-13.573,5.793-13.573,5.793c-3.267-0.746-6.386-3.088-9.469-5.469C28.298,34.729,24.926,32.042,21,32z M21,34
+	c2.974,0.032,6.083,2.322,9.469,4.938c3.854,2.99,7.546,5.56,11.594,6.063l15.625,1.938C58.85,47.309,60,48.734,60,50
+	c0,1.669-1.332,3-3,3H37c-1.748,0-2.934-0.43-4.094-1.063c-1.354-0.738-2.647-1.816-4.406-2.813
+	c-0.451-0.332-1.187-0.172-1.469,0.313c-0.282,0.484-0.042,1.179,0.469,1.405c1.572,0.89,2.85,1.979,4.438,2.845
+	C33.295,54.429,34.923,55,37,55h20c2.75,0,5-2.25,5-5c0-0.148-0.018-0.291-0.031-0.438L76.5,40.844C78.74,39.499,80.311,39,82,39
+	c0.525,0,1.053,0.161,1.406,0.469C83.758,39.777,84,40.213,84,41c0,1.117-0.105,2.344-2.594,4.188L54.984,64.75
+	C52.215,66.763,49.527,68,46,68c-1.664,0-4.938-0.623-7.563-1.906c-2.915-1.457-6.33-3.723-9.844-5.625
+	C25.081,58.564,21.471,57,18,57c-5.091,0-11.359,2.072-16,3.625V40.594C7.876,37.602,13.512,34,21,34z M59,38
+	c0.793,0,1.49,0.186,2,0.531c0.346,0.234,0.598,0.553,0.781,0.969c-3.191,1.598-8.51,4.27-9.5,4.781L45,43.375
+	c0,0,10.488-4.502,10.529-4.52C56.947,38.289,58.248,38,59,38z M71,38c0.793,0,1.49,0.186,2,0.531
+	c0.48,0.328,0.813,0.797,0.969,1.531l-12.594,7.53c-0.656-1.209-1.773-2.151-3.063-2.563c-0.063-0.018-2.5-0.313-2.5-0.313
+	l9.625-4.813C67.807,38.721,69.918,38,71,38z"/>
+<circle id="coin2" fill="#D11E9F" cx="57.129" cy="11.044" r="10.738">
+	<animateMotion path="M 0 0, 0 7 Z" dur="2.3s" repeatCount="indefinite" />
+</circle>
+<circle id="coin2y" fill="#FFF341" cx="57.129" cy="11.044" r="9">
+	<animateMotion path="M 0 0, 0 7 Z" dur="2.3s" repeatCount="indefinite" />
+</circle>
+<ellipse id="coin2shine" transform="matrix(0.8272 0.562 -0.562 0.8272 13.1985 -34.5142)" fill="#FFFFFF" cx="62" cy="5" rx="4" ry="3">
+	<animateMotion path="M 0 0, -8 11 Z" dur="2.3s" repeatCount="indefinite" />
+</ellipse>
+<animate
+    xlink:href="#coin2shine"
+    attributeName="opacity"
+    values="1;0.2;1" 
+	dur="1.2s" 
+    begin="0s"
+    repeatCount="indefinite"
+    id="coin2shine-animo" />
+<circle id="coin1" fill="#D11E9F" cx="45.089" cy="21.447" r="14">
+	<animateMotion path="M 0 0, 0 9 Z" dur="1.3s" repeatCount="indefinite" />
+</circle>
+<circle id="coin1y" fill="#FFFC41" cx="45.089" cy="21.423" r="12">
+	<animateMotion path="M 0 0, 0 9 Z" dur="1.3s" repeatCount="indefinite" />
+</circle>
+<ellipse id="coin1shine" transform="matrix(0.8271 0.562 -0.562 0.8271 16.4163 -27.2829)" fill="#FFFFFF" cx="52" cy="13" rx="5" ry="4">
+	<animateMotion path="M 0 0, -10 12 Z" dur="1.3s" repeatCount="indefinite" />
+</ellipse>
+<animate
+    xlink:href="#coin1shine"
+    attributeName="opacity"
+    values="1;0.2;1" 
+	dur="0.7s" 
+    begin="0s"
+    repeatCount="indefinite"
+    id="coin1shine-animo" />
+</svg>

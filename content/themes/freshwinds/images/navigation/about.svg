@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   id="svg4462"
+   viewBox="0 0 99.999997 99.999997"
+   height="100"
+   width="100">
+  <defs
+     id="defs4464" />
+  <metadata
+     id="metadata4467">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-952.36223)"
+     id="layer1">
+    <path
+       style="fill:#d11e9f;fill-opacity:1"
+       d="m 50.002551,953.06652 c -27.305174,0 -49.5456814,22.24054 -49.5456814,49.54558 0,27.3052 22.2405074,49.5457 49.5456814,49.5457 27.305173,0 49.545682,-22.2405 49.545682,-49.5457 0,-27.30504 -22.240509,-49.54558 -49.545682,-49.54558 z m 0,95.35588 c -24.112238,0 -45.8102611,-21.5879 -45.8102611,-45.8103 0,-24.22225 21.6980231,-45.81012 45.8102611,-45.81012 24.112238,0 45.810262,21.698 45.810262,45.81012 0,24.1123 -21.698024,45.8103 -45.810262,45.8103 z"
+       id="path4144" />
+    <g
+       id="text4360"
+       style="font-style:normal;font-weight:normal;font-size:80.54692841px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#d11e9f;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1">
+      <path
+         id="path4145"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Asap;-inkscape-font-specification:Asap;fill:#d11e9f;fill-opacity:1"
+         d="m 49.671454,980.04462 q -3.221878,0 -3.221878,-1.77203 l 0,-4.75227 q 0,-1.77203 3.221878,-1.77203 l 0.966563,0 q 3.221877,0 3.221877,1.77203 l 0,4.75227 q 0,1.77203 -3.221877,1.77203 l -0.966563,0 z m -2.89969,50.66398 0,-38.90412 q 0,-1.77204 3.221877,-1.77204 l 0.322188,0 q 3.221877,0 3.221877,1.77204 l 0,38.90412 q 0,1.7721 -3.221877,1.7721 l -0.322188,0 q -3.221877,0 -3.221877,-1.7721 z" />
+    </g>
+  </g>
+</svg>
